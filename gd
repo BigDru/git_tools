@@ -1,2 +1,2 @@
 clear
-git diff
+git diff HEAD
