@@ -1,2 +1,2 @@
 clear
-git status
+git -c color.status=always status

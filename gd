@@ -1,2 +1,2 @@
 clear
-git diff HEAD
+git diff HEAD --color=always
