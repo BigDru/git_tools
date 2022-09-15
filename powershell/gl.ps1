@@ -1,0 +1,2 @@
+clear
+git log --graph --oneline --decorate --all --color=always
